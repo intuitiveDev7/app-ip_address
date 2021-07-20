@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/intuitiveDev7/app-ip_address/issues"
   },
-  "homepage": "https://github.com/intuitiveDev7/app-ip_address#readme"
+  "homepage": "https://github.com/intuitiveDev7/app-ip_address#readme",
+  "dependencies": {
+    "ip-cidr": "^2.1.4"
+  }
 }
